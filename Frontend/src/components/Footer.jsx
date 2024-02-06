@@ -51,12 +51,12 @@ export const Footer = () => {
     },
   ];
   return (
-    <footer className="bg-neutral-300 px-4 mx-auto md:px-8">
+    <footer className="bg-neutral-300 p-4 mx-auto md:px-8">
       <div className="max-x-lg sm:mx-auto sm:text-center">
         <img
           src="../images/Brand.svg"
           alt="Brand logo"
-          className="w-40 sm:mx-auto"
+          className="h-20 sm:mx-auto"
         />
         <p className="leading-relaxed mt-2 text-[15px] text-gray-600">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic nostrum
